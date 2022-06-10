@@ -1,0 +1,14 @@
+.headerRoot {
+  background-color: var(--primary-color);
+  color: white;
+  height: 64px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.headerTitle {
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
